@@ -1,31 +1,31 @@
 
 <!DOCTYPE html>
 <html lang="fr">
-    
+
     <head>
         <meta charset="UTF-8" />
         <title>Ramassage</title>
-       
+
     </head>
 
     <body>
         <header>
-            
-        
-        
+
+
+
         </header>
-        
+
         <nav class="nav">
-            
+
             <ul class="hide">
             <li><a href="#">Se Connecter</a></li>
             </ul>
-        
-        
+
+
         </nav>
-        
+
         <main class="main">
-        
+
          <div>
              <h2>Bienvenu sur Ramassage</h2>
             <br>
@@ -33,16 +33,16 @@
             <span>Voyager partout dans le Cameroun d'une maniere plus flexible et facile tout en faisant connaissance de nouvelle Personne</span>
             <br>
             <span>tout en faisant la connaissance de nouvelle person</span>
-   
+
         </div>
-            
+
             <fieldset>
             <label>Creer votre compte en un tamps record</label>
-            
-                       <form action="registrierung" method="post">
-            
+
+                       <form action="register" method="post">
+
             Nom: <input type="search" name="nachname">
-             <br>                                         
+             <br>
             Prenom: <input type="search" name="vorname">
                            <br>
             ville de residance: <input type="text" name="ort">
@@ -319,39 +319,39 @@
 	<option value="Zentralafrikanische Republic">Zentralafrikanische Republic</option>
 	<option value="Zimbabwe">Zimbabwe</option>
 </select>
-  	
+
                            <br>
             E-mail: <input type="email" name="email">
                            <br>
             Mot de passe: <input type="password" name="pass">
             <br>
             <br>
-            
+
             <input type="submit" value="creer son compte">
-            
-            
-            
-            
+
+
+
+
         </form>
-           
-            
-        
-        
-        
-            
-            
+
+
+
+
+
+
+
             </fieldset>
-            
- 
-        
+
+
+
         </main>
-        
-        
+
+
         <footer>
-        
-        
+
+
         </footer>
-     
+
     </body>
 
 </html>
